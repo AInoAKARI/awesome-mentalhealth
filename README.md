@@ -79,7 +79,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 ### Treatment Options
 
-- [MedShadow Foundation](https://medshadow.org/) - Aims to protect lives by uncovering the hidden and minimized risks of medicines so that everyone has the ability to make informed decisions about the risks, benefits, and alternatives of medicines.
+- [MedShadow Foundation](https://medshadow.org/) - Aims to protect lives by uncovering the hidden and minimized risks of medicines so that everyone has the ability to make informed decisions about the risks, benefits, and alternatives to medicines.
 
 ### Websites
 
