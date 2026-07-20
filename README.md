@@ -18,6 +18,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 ## Apps
 
+- [AIﾉアカリ☆ One-Minute Reset](https://ai-akari.ai/one-minute) - Free, no-account one-minute grounding prompts that return one small next step, without storing personal data. Not a replacement for professional care.
 - [Calm](https://www.calm.com/) - Web & Mobile app that provides guided meditations, sleep stories, breathing programs, and relaxing    music to people experiencing stress and anxiety.
 - [GG OCD](https://ggapps.net/2018/04/11/ggoc-ocd-training-app/) - Improves OCD symptoms by increasing the user's awareness of negative thoughts through short games.
 - [Headspace](https://www.headspace.com/) - Meditation in small bits and pieces.
@@ -78,7 +79,7 @@ A curated list of anything remotely related to mental health, sorted by alphabet
 
 ### Treatment Options
 
-- [MedShadow Foundation](https://medshadow.org/) - Aims to protect lives by uncovering the hidden and minimized risks of medicines so that everyone has the ability to make informed decisions about the risks, benefits, and alternatives to medicines.
+- [MedShadow Foundation](https://medshadow.org/) - Aims to protect lives by uncovering the hidden and minimized risks of medicines so that everyone has the ability to make informed decisions about the risks, benefits, and alternatives of medicines.
 
 ### Websites
 
